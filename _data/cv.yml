@@ -1,189 +1,212 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Subrat Kumar Swain
+  label: PhD Researcher in Machine Learning & Security
+  email: qiz218247@iitd.ac.in
+  location: New Delhi, India
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: PhD researcher at The University of Queensland and IIT Delhi, working on adversarial machine learning and network security.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: swainsubrat
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: subrat-kumar-swain
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: The University of Queensland - IIT Delhi
+        location: Brisbane, Australia & New Delhi, India
+        url: https://www.uq.edu.au/
+        area: Machine Learning & Security
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: "2021-08"
+        end_date: present
+        score: "9/10"
+        courses: "Machine Learning, Meta Learning, Computer Vision, Network & System Security, Cyber-Physical Systems, Cryptography"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supervised by Prof. Dan Kim (UQ) and Prof. Vireshwar Kumar (IIT Delhi)"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: VSS University of Technology
+        location: Odisha, India
+        url: https://www.vssut.ac.in/
+        area: Computer Science
+        studyType: Bachelor of Technology
+        start_date: "2016-08"
+        end_date: "2020-07"
+        score: "9.21/10"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Cognizant Technology Solutions
+        position: Product Engineer
+        location: Bengaluru, India
+        start_date: "2020-09"
+        end_date: "2021-08"
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed and integrated a Ticket Analysis Solution into Nexa, an AutoML platform, which generates plots for volumetric & multivariate analysis and arrival patterns of issue tickets.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: TaiyoAI Inc.
+        position: Machine Learning Engineer
+        location: San Francisco, CA (Remote)
+        start_date: "2019-09"
+        end_date: "2020-09"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Automated hyper-parameter optimization of models by 80% using Bayesian optimization.
+          - Improved model evaluation by ranking 20+ competing machine learning models by implementing an evaluation leaderboard for various use cases.
+          - Improved & managed model deployment pipeline for 1000+ time series forecasting models using Apache Airflow.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: VSS University of Technology
+        position: Undergraduate Research Assistant (Under Prof. Bighnaraj Naik)
+        location: Odisha, India
+        start_date: "2018-04"
+        end_date: "2020-03"
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Implemented a Deep Belief Network classifier by stacking multiple Restricted Boltzmann Machines and performed a comparative study on classification power based on Gibbs chain lengths in Gibbs sampling.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Invited Speaker, UQ-IITD Industry Connect Workshop Series
+        date: 2026
+        awarder: Academia-Industry Research Partnerships in Responsible AI Across Australia and India
+        summary: Invited speaker at the UQ-IITD Industry Connect Workshop Series on Responsible AI.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: ACM CCS 2025 Attendee
+        date: 2025
+        awarder: ACM
+        summary: Attended ACM CCS 2025 at Taipei, Taiwan.
+
+      - title: CSRC Invited Student Speaker
+        date: 2024
+        awarder: The University of Queensland
+        summary: Invited student speaker at the CSRC conference at UQ in 2023 and 2024.
+
+      - title: Prime Minister's Research Fellowship (PMRF)
+        date: 2021
+        awarder: Government of India
+        url: https://pmrf.in/
+        summary: Qualified for the Prime Minister's Research Fellows PhD fellowship in lateral entry scheme for cycle 9.
+
+      - title: GATE CS-IT All India Rank 800
+        date: 2021
+        awarder: GATE
+        summary: Ranked All India 800 (top 0.8%) from 101,922 students in Graduate Aptitude Test in Engineering (GATE) - CS-IT.
+
+      - title: SkyDeck UC Berkeley
+        date: 2020
+        awarder: UC Berkeley
+        url: https://skydeck.berkeley.edu/
+        summary: Selected as part of SkyDeck, UC Berkeley Start-up Acceleration program as a ML Engineer for TaiyoAI.
+
+      - title: JEE Advanced ~99 Percentile
+        date: 2016
+        awarder: IITs
+        summary: Achieved ~99 percentile (All India Rank 13,187 among 12,07,058 candidates) in JEE Advanced 2016.
+
+      - title: National Super 100, Delhi
+        date: 2013
+        awarder: Director General of Police Abhyanand
+        summary: Selected for National Super 100, Delhi - free residential coaching for IIT entrance examinations.
+
+      - title: JNVST (Navodaya) Scholar
+        date: 2009
+        awarder: Government of India
+        summary: Qualified JNVST (Navodaya) and funded by the Govt of India to pursue free education from Standard 6 to 12.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - S. K. Swain
+          - V. Kumar
+          - D. D. Kim
+          - G. Bai
+        publisher: European Conference on Artificial Intelligence (ECAI'23) [CORE A]
+        releaseDate: "2023"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "PANDA: Practical Adversarial Attack Against Network Intrusion Detection"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - S. K. Swain
+          - V. Kumar
+          - G. Bai
+          - D. D. Kim
+        publisher: International Conference on Dependable Systems and Networks (DSN) [CORE A]
+        releaseDate: "2024"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "ImageNet-LC: A Benchmark for Object-Centric Robustness under Localized Corruptions"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - S. K. Swain
+          - S. Gupta
+          - et al.
+        publisher: International Conference on Pattern Recognition (ICPR) [CORE B]
+        releaseDate: "2026"
+
+      - title: "Deep Learning and Wavelet Transform Integrated Approach for Short-term Solar PV Power Prediction"
+        authors:
+          - M. Mishra
+          - P. B. Dash
+          - J. Nayak
+          - S. K. Swain
+        publisher: "Journal of the International Measurement Confederation [IF: 5.131]"
+        releaseDate: "2020"
+
+      - title: "G2AP: Gradient-Guided Adversarial Perturbation in Network Security"
+        authors:
+          - S. K. Swain
+          - V. Maurya
+          - D. D. Kim
+          - V. Kumar
+        publisher: IEEE European Symposium on Security and Privacy-Workshops (EuroS&P-W) [CORE A]
+        releaseDate: "2026"
+
+      - title: "GhosTurb: Practical Adversarial Perturbation Framework for IoT Networks"
+        authors:
+          - S. K. Swain
+          - et al.
+        publisher: Submitted to AsiaCCS 2026
+        releaseDate: "2026"
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Machine Learning
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Adversarial Machine Learning, Deep Learning, Meta Learning, Computer Vision, Bayesian Optimization, PyTorch, TensorFlow"
+
+      - name: Network Security
+        level: Expert
+        icon: fa-solid fa-shield-halved
+        keywords: "Adversarial Attacks, Intrusion Detection Systems, IoT Security, Cyber-Physical Systems, Cryptography"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, TensorFlow, Apache Airflow, Docker, Linux"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
+      - name: Odia
+        summary: "Native"
+
+      - name: Hindi
+        summary: "Fluent"
+
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Research
+        icon: fa-solid fa-microscope
+        keywords: "Adversarial Machine Learning, Network Security, Computer Vision, IoT Security"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: "Disentangling Symbols and Movements: Factor-VAE on NAR Dataset"
+        summary: Applied Factor-VAE to disentangle complex primitive transformations in a few-shot visual analogical reasoning task, and demonstrated interpretability of the learned factors through latent traversal analysis.
+        url: https://github.com/swainsubrat
+
+      - name: Reading Noisy Captions Embedded in Images
+        summary: Developed an Encoder-Decoder network using ResNet-50 for image encoding and an attention-based LSTM for extracting text embedded within images, leveraging teacher forcing for training, beam search for prediction, and BLEU score for evaluation.
+        url: https://github.com/swainsubrat
 
     References:
-      - name: Professor John Doe
+      - name: Prof. Dan Kim
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Associate Professor, School of Electrical Engineering and Computer Science, The University of Queensland, Brisbane, Australia.
 
-      - name: Professor Jane Smith
+      - name: Prof. Vireshwar Kumar
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Assistant Professor, Department of Computer Science and Engineering, IIT Delhi, New Delhi, India.
